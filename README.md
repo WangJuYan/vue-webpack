@@ -1,4 +1,4 @@
-# thoughtworks_project
+# vue-webpack
 
 > A Vue.js project
 
